@@ -1,0 +1,9 @@
+name: crypto
+channels:
+  - default
+dependencies:
+  - python=3.11
+  - bitarray
+  - colorama
+  - sympy
+  - pip
